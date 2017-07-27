@@ -1,0 +1,5 @@
+忙着弄完了公司的事,可以闲几天了,把类型信息补完
+
+对象的初始化操作被延迟到了对静态方法(构造器也是静态的) 或者非常数静态域的首次引用才执行
+见com.shinian.typeinfo.demo.ClassInitializetion
+
