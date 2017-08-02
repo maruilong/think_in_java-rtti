@@ -7,6 +7,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="JavaSE-1.7" jdkType="JavaSDK" />
+=======
+    <orderEntry type="inheritedJdk" />
+>>>>>>> 18b381f87f461dc5568d3c7297f6804f29e245a8
   </component>
 </module>
