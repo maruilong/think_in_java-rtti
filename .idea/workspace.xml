@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f508e7c-70f4-4cf2-87ad-2b6757bd0dec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/ClassCasts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/FilledList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/GenericToyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/factory/Factory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/shinian/typeinfo/note/20170802.note" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/shinian/typeinfo/readme" afterPath="$PROJECT_DIR$/src/com/shinian/typeinfo/readme" />
     </list>
@@ -406,7 +401,7 @@
       <workItem from="1501658549402" duration="1649000" />
       <workItem from="1501660259679" duration="3299000" />
       <workItem from="1501663882137" duration="855000" />
-      <workItem from="1501664761036" duration="2054000" />
+      <workItem from="1501664761036" duration="2383000" />
     </task>
     <task id="LOCAL-00001" summary="idea的">
       <created>1501643636740</created>
@@ -436,11 +431,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501656357801</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="idea的">
+      <created>1501667892821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1501667892821</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14341000" />
+    <option name="totallyTimeSpent" value="14670000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
