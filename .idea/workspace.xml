@@ -32,12 +32,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="20170803.note" pinned="false" current-in-tab="true">
+      <file leaf-file-name="20170803.note" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/shinian/typeinfo/note/20170803.note">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="635">
+              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="442">
+                <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -71,7 +84,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/Shapes.java" />
         <option value="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/SwitchTest.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/shinian/typeinfo/readme" />
         <option value="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/FilledList.java" />
         <option value="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/GenericToyTest.java" />
@@ -91,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/B.java" />
         <option value="$PROJECT_DIR$/src/com/shinian/typeinfo/demo/InterfaceViolation.java" />
         <option value="$PROJECT_DIR$/src/com/shinian/typeinfo/note/20170803.note" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -170,38 +183,6 @@
             <path>
               <item name="typeinfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="think_in_java-rtti" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="typeinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="think_in_java-rtti" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="typeinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="think_in_java-rtti" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="typeinfo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="typeinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="think_in_java-rtti" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="typeinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="typeinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="think_in_java-rtti" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="typeinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="typeinfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="think_in_java-rtti" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="typeinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="note" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -451,7 +432,7 @@
       <workItem from="1501660259679" duration="3299000" />
       <workItem from="1501663882137" duration="855000" />
       <workItem from="1501664761036" duration="4257000" />
-      <workItem from="1501740906784" duration="11128000" />
+      <workItem from="1501740906784" duration="11491000" />
     </task>
     <task id="LOCAL-00001" summary="idea的">
       <created>1501643636740</created>
@@ -509,11 +490,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501771030034</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="idea的">
+      <created>1501773006629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1501773006629</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34732000" />
+    <option name="totallyTimeSpent" value="35095000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -777,16 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1056,9 +1034,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shinian/typeinfo/note/20170803.note">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="635">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
